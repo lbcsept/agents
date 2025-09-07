@@ -27,44 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Complete Agentic AI course/01. The Complete Agentic AI Engineering Course (2025).md",
+                "file": "general notes/Git stuff.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01. The Complete Agentic AI Engineering Course (2025)"
-            }
-          },
-          {
-            "id": "2426fe96dde0ac19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Complete Agentic AI course/w1 - foundations/d. Make an Agentic Workflows.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "d. Make an Agentic Workflows"
-            }
-          },
-          {
-            "id": "1eab74a28c9a4d36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Complete Agentic AI course/w1 - foundations/d. Make an Agentic Workflows.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "d. Make an Agentic Workflows"
+              "title": "Git stuff"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,23 +184,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "1eab74a28c9a4d36",
+  "active": "fce78ffb4871e025",
   "lastOpenFiles": [
-    "Complete Agentic AI course/w1 - foundations/d2 Workflow Agent patterns.md",
+    "Clippings/Links to Agentic AI Slides.md",
+    "general notes/Git stuff.md",
+    "general notes",
+    "LLM/Basics/1hr Talk Intro to Large Language Models.md",
+    "Courses/Can anyone explain the benefits and limitations of using agentic frameworks like Autogen and CrewAI versus low-code platforms like n8n?.md",
+    "Courses/Topics to investigate.md",
     "screenshots/Pasted image 20250830152617.png",
-    "Complete Agentic AI course/02. All slides.md",
     "screenshots/Pasted image 20250830152418.png",
+    "screenshots/Capture d’écran 2025-08-30 à 15.48.45.png",
+    "Complete Agentic AI course/w1 - foundations/d2 Workflow Agent patterns.md",
+    "Complete Agentic AI course/02. All slides.md",
     "Pasted image 20250830152511.png",
     "screenshots",
     "Complete Agentic AI course/w1 - foundations/d. Make an Agentic Workflows.md",
-    "Courses/Topics to investigate.md",
-    "Courses/Can anyone explain the benefits and limitations of using agentic frameworks like Autogen and CrewAI versus low-code platforms like n8n?.md",
     "Complete Agentic AI course/01. The Complete Agentic AI Engineering Course (2025).md",
     "().md",
     "Sans titre.canvas",
     "Complete Agentic AI course/w1 - foundations",
     "Complete Agentic AI course",
-    "Clippings/Links to Agentic AI Slides.md",
     "Workflows/LangGraph Complete Course for Beginners – Complex AI Agents with Python.md",
     "Workflows/RAG/Agentic RAG & Mistral AI Construisez un assistant conversationnel avec LangChain et LlamaIndex.md",
     "Bienvenue.md",
@@ -236,14 +212,12 @@
     "Workflows/LangChain Crash Course for Beginners.md",
     "Courses/Umar Jamil.md",
     "Clippings/Generative AI Full Course 2025  Gen AI Tutorial for Beginners  Gen AI Explained  Simplilearn.md",
-    "LLM/Basics/1hr Talk Intro to Large Language Models.md",
     "LLM/Basics",
     "LLM/VLM",
     "LLM",
     "Workflows/RAG/Learn RAG From Scratch – Python AI Tutorial from a LangChain Engineer.md",
     "Workflows",
     "Workflows/RAG",
-    "Courses",
-    "Clippings"
+    "Courses"
   ]
 }
