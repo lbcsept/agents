@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "general notes/Git stuff.md",
+                "file": "Complete Agentic AI course/w1 - foundations/w1d3.1 Orchestrating LLMs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git stuff"
+              "title": "w1d3.1 Orchestrating LLMs"
+            }
+          },
+          {
+            "id": "88da0a1befd776d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Complete Agentic AI course/w1 - foundations/w1d4. Function calling.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "w1d4. Function calling"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 317.5
   },
   "right": {
     "id": "52e0a9282da057fb",
@@ -184,10 +198,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "fce78ffb4871e025",
+  "active": "32537e39e2dc77d5",
   "lastOpenFiles": [
-    "Clippings/Links to Agentic AI Slides.md",
+    "Complete Agentic AI course/01. The Complete Agentic AI Engineering Course (2025).md",
+    "Complete Agentic AI course/w1 - foundations/w1d4. Function calling.md",
+    "Complete Agentic AI course/02. All slides.md",
+    "Sans titre.md",
+    "Complete Agentic AI course/w1 - foundations/w1d3.1 Orchestrating LLMs.md",
     "general notes/Git stuff.md",
+    "Clippings/Welcome to Syncthing’s documentation! — Syncthing documentation.md",
+    "Clippings/Links to Agentic AI Slides.md",
     "general notes",
     "LLM/Basics/1hr Talk Intro to Large Language Models.md",
     "Courses/Can anyone explain the benefits and limitations of using agentic frameworks like Autogen and CrewAI versus low-code platforms like n8n?.md",
@@ -196,11 +216,9 @@
     "screenshots/Pasted image 20250830152418.png",
     "screenshots/Capture d’écran 2025-08-30 à 15.48.45.png",
     "Complete Agentic AI course/w1 - foundations/d2 Workflow Agent patterns.md",
-    "Complete Agentic AI course/02. All slides.md",
     "Pasted image 20250830152511.png",
     "screenshots",
     "Complete Agentic AI course/w1 - foundations/d. Make an Agentic Workflows.md",
-    "Complete Agentic AI course/01. The Complete Agentic AI Engineering Course (2025).md",
     "().md",
     "Sans titre.canvas",
     "Complete Agentic AI course/w1 - foundations",
